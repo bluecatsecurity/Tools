@@ -14,7 +14,7 @@ python -m pip install -r requirements.txt
 ## Usage
 
 ```python
-python subseeker.py <url>
+python subseeker.py <url> <[OPTIONAL] wordlist dictionary>
 ```
 
 ## Contributing
