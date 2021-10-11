@@ -1,5 +1,7 @@
 Subdomain_seeker/env
 Directory_seeker/env
-Login_BruteForcer
 Content_explorer/env
+Login_BruteForcer/env
+Login_BruteForcer/passlist.txt
+Login_BruteForcer/usernames.txt
 .vscode
