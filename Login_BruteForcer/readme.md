@@ -13,10 +13,14 @@ python -m pip install -r requirements.txt
 ## Usage
 
 ```python
-python loginBruteForcer.py <url login> <username> <password wordlist> 
+python loginBruteForcer.py <url> <username> <password wordlist> 
 
-Note: The url must be the page that receives the POST.
+Note: loginBruteForcer_v1
+      The url must be the page that receives the POST.
       You can check that in the form action attribute of the page that has the login form
+
+      loginBruteForcer_v2 it`s an improvement where the attributes of the form are automatically verified
+      before being submitted.
 ```
 
 ## Contributing
